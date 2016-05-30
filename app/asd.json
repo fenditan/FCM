@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "849071700274",
-    "firebase_url": "https://project-8376045166047526213.firebaseio.com",
-    "project_id": "project-8376045166047526213",
-    "storage_bucket": "project-8376045166047526213.appspot.com"
+    "project_number": "554586250706",
+    "firebase_url": "https://fcmtest-d3faa.firebaseio.com",
+    "project_id": "fcmtest-d3faa",
+    "storage_bucket": "fcmtest-d3faa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:849071700274:android:10bdbf4eedddbd38",
+        "mobilesdk_app_id": "1:554586250706:android:10bdbf4eedddbd38",
         "android_client_info": {
           "package_name": "com.example.fendi_pc.fcm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "849071700274-vluane0d6ipnlqs179u5kv1lc6t3a64h.apps.googleusercontent.com",
+          "client_id": "554586250706-3op0scmtvnqfs4vbkr30dg8h4s2t938h.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB6dLmtrwCfAHsa3R0QpI9fzNGjWNbxfg0"
+          "current_key": "AIzaSyCGUkWj5O5KLA35j-qijVKeZMPl710rVUk"
         }
       ],
       "services": {

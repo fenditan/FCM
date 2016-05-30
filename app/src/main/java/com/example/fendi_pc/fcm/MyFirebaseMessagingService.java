@@ -22,10 +22,10 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         //Displaying data in log
         //It is optional
         Log.d(TAG, "From: " + remoteMessage.getFrom());
-        Log.d(TAG, "Notification Message Body: " + remoteMessage.getNotification().getBody());
+        Log.d(TAG, "Notification Message Body: " + remoteMessage.getData().get("message"));
 
         //Calling method to generate notification
-        sendNotification(remoteMessage.getNotification().getBody());
+       sendNotification(remoteMessage.getData().get("message"));
     }
 
     //This method is only generating push notification
